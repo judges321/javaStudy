@@ -1,0 +1,9 @@
+package com.imooc;
+
+public class Car {
+	public int id;
+	public String name;
+	public int rental;
+	public int cargo;
+	public int manned;
+}

@@ -1,0 +1,5 @@
+package com.imooc;
+
+public class cargo extends Car {
+	public int cargo;
+}

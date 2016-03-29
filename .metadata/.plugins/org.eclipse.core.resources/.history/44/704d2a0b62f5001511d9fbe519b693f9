@@ -1,0 +1,17 @@
+package com.imooc;
+
+public class Dog extends Animal {
+	int age = 10;
+	public void eat(){
+		System.out.println(age+"狗能吃骨头");
+	}
+
+	public void method(){
+		super.eat();
+	}
+	public Dog(){
+		super();
+		System.out.println("dog类执行了");
+	}
+	
+}

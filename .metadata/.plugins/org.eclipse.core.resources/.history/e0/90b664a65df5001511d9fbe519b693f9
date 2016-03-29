@@ -1,0 +1,10 @@
+package com.imooc;
+
+public class Dog extends Animal {
+	public void eat(){
+		System.out.println(age+"狗能吃东西");
+	}
+	public Dog(){
+		System.out.println("dog");
+	}
+}

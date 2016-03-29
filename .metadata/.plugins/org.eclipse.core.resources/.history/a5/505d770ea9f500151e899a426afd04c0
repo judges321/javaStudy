@@ -1,0 +1,12 @@
+package com.imooc;
+
+public class PassengerCar extends Car {
+	public int manned;
+	public PassengerCar(int NewId,String NewName,int NewRental,int NewManned){
+		id = NewId;
+		name = NewName;
+		rental = NewRental;
+		manned = NewManned; 
+		
+	}
+}

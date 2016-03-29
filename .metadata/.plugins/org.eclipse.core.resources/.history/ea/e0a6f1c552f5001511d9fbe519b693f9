@@ -1,0 +1,7 @@
+package com.imooc.secound.copy;
+
+public class Telphone {
+  public Telphone(){
+	  System.out.println("子包的电话");
+  }
+}
