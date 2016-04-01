@@ -1,7 +1,0 @@
-package com.imooc;
-
-public class English extends Person {
-	public void say(){
-		System.out.println("说英语");
-	}
-}

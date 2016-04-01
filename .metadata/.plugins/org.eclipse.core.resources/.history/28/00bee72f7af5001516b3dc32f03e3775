@@ -1,7 +1,0 @@
-package com.imooc;
-
-public class person {
-	public void say(){
-		System.out.println("语言");
-	}
-}

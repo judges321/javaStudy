@@ -1,7 +1,0 @@
-package com.imooc;
-
-public class PickUp extends Car{
-	public int cargo;
-	public int manned;
-
-}

@@ -1,6 +1,6 @@
 package com.imooc;
 
-public class bill {
+public class Bill {
 	public int allCost;
 	public String[] cargoCar;
 	public String[] mannedCar;

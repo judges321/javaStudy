@@ -1,7 +1,0 @@
-package com.imooc;
-
-public class peoson {
-	public void speakLanguage(){
-		System.out.println("语言");
-	}
-}
